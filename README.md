@@ -1,7 +1,7 @@
 - 👋 Hi, I’m DonFerz
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on backend
+- 💞️ I’m looking to collaborate on Yandex
 - 📫 How to reach me: tg @Don_Ferz
 
 <!---
